@@ -1,6 +1,6 @@
 package 1dami.tartangamngmt.app;
 /*
-*Main class for the Tartanga's Management application
+*Login Controller class for the Tartanga's Management application
 */
 public class Application{
 	/*
