@@ -7,6 +7,6 @@ public class Application{
 	*Entry point for the application
 	*/
 	public static void main (String args){
-	//this methos does nothing
+	//this methos does still nothing
 	}
 }
